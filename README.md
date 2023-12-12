@@ -2,7 +2,7 @@
 
 ## 1. Estudo de Caso
 
-![Modelagem.](/DesafioStefaniniDotNet/ImagensREADME/Modelagem.jpg "Modelagem.")
+![Modelagem.](/ImagensREADME/Modelagem.jpg "Modelagem.")
 
 O desafio é criar um porjeto back-end API em .NET Core 6.0, onde deverá ser desenvolvido o CRUD de pedidos seguindo a modelagem de dados acima e consistindo na base de dados SQL Server e como opcional a criação de um projeto front-end para integrar com a API.
 
@@ -40,4 +40,4 @@ A não entrega do obrigatório o candidato será desclassificado e todos os arte
 * Frontend com todas as integrações e os comportamentos básicos funcionando;
 * Link acessível com o projeto publicado na Azure/AWS/GCP;
 
-![JSON.](/DesafioStefaniniDotNet/ImagensREADME/JSON.jpg) "JSON.")
+![JSON.](/ImagensREADME/JSON.jpg) "JSON.")
