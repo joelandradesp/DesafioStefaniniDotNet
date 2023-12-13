@@ -53,47 +53,74 @@ Após a entrega do desafio, colabore com a sua opnião: Responda o questionario 
 
 1. Criei um Repositório público no meu GitHub: https://github.com/joelandradesp/DesafioStefaniniDotNet
 	* SSH: git@github.com:joelandradesp/DesafioStefaniniDotNet.git
+	
 	![GitHub Desafio Stefanini Dot Net.](/ImagensREADME/GitHubDesafioStefaniniDotNet.png "GitHub Desafio Stefanini Dot Net.")
+	
 2. Instalação do Visual Studio 2022 Community Edition
 	* Download: https://visualstudio.microsoft.com/pt-br/vs/community/
+	
 	![Download Visual Studio Community.](/ImagensREADME/DownloadVisualStudioCommunity.png "Download Visual Studio Community.")
+	
 3. Instalar .Net Core 6.
 	Link: https://dotnet.microsoft.com/pt-br/download/dotnet/6.0
 	Escolher Windows - x64.
 	* A instalação do Visual Studio 2022 faz a instalação do .Net Core 8 e portanto tem que ser instalado a parte do .Net Core 6.
+	
 	![Download Net Core 6](/ImagensREADME/DownloadNetCore6.png "Download Net Core 6.")
+	
 4. Atualizar o Idioma do Visual Studio 2022 para Inglês.
+
 	1. Executar novamente o instalador do Visual Studio:
+	
 	![Instalador Visual Studio.](/ImagensREADME/InstaladorVisualStudio.png "Instalador Visual Studio.")
+	
 	2. Confirme as primeiras definições do instalador clicando em Continuar:
+	
 	![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
-	3. Aguardo enquanto o Visual Studio Installer realiza os downloads necessários
+	
+	3. Aguardo enquanto o Visual Studio Installer realiza os downloads necessários:
+	
 	![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
-	4. Clique agora em Modificar
+	
+	4. Clique agora em Modificar:
+	
 	![Modificar Instalacao](/ImagensREADME/ModificarInstalacao.png "Modificar Instalacao.")
-	5. Vá até a guia Pacotes de idiomas
+	
+	5. Vá até a guia Pacotes de idiomas:
+	
 	![Pacote de Idiomas](/ImagensREADME/PacotedeIdiomas.png "Pacote de Idiomas.")
-	6. Marque o Inglês, ou outro de sua preferencia e clique em Modificar
+	
+	6. Marque o Inglês, ou outro de sua preferencia e clique em Modificar:
+	
 	![Modificar Idioma](/ImagensREADME/ModificarIdioma.png "Modificar Idioma.")
-	7. Finalizada a atualização, abra seu Visual Studio, localize o menu Ferramentas e na sequencia clique em Opções
+	
+	7. Finalizada a atualização, abra seu Visual Studio, localize o menu Ferramentas e na sequencia clique em Opções:
+	
 	![Ferramentas Opcoes](/ImagensREADME/FerramentasOpcoes.png "Ferramentas Opcoes.")
-	8. Vá até Configurações Internacionais
+	
+	8. Vá até Configurações Internacionais:
+	
 	![Configuracoes Internacionais](/ImagensREADME/ConfiguracoesInternacionais.png "Configuracoes Internacionais.")
-	9. Selecione o idioma de sua preferência e clique em Ok para confirmar a alteração.
+	
+	9. Selecione o idioma de sua preferência e clique em Ok para confirmar a alteração:
+	
 	![Idioma Ingles Selecionado](/ImagensREADME/IdiomaInglesSelecionado.png "Idioma Ingles Selecionado.")
 
-Agora o Visual Studio está em Inglês.
+	Agora o Visual Studio está em Inglês.
 	
 5. Problemas com o Nuget
+
 O Nuget esta para o ambiente .Net como o Maven esta para o Java.
 Após instalar o Visual Studio, não me atentei que houve uma falha na instalação. O Nuget não estava configurado para buscar os pacotes da internet e sim do repositório local. O nuget.org não estava configurado.
 
-Essa é a imagem de como estava (era a única opção), não tinha a configuração nuget.org.
+Essa é a imagem de como estava (era a única opção), não tinha a configuração nuget.org:
+
 ![Nuget Local](/ImagensREADME/NugetLocal.png "Nuget Local.")
 
 Esse tipo de problema é algo não previsto, demora para identificar a origem.
 
 Adicionado nuget.org:
+
 ![Adicionado Nuget.org](/ImagensREADME/adicionadonugetorg.png "Adicionado Nuget.org.")
 
 Agora conseguimos escolher o ambiente local do Nuget ou do repositório da Internet que é o Nuget.org:
