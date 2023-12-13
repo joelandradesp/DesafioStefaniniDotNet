@@ -63,24 +63,24 @@ Após a entrega do desafio, colabore com a sua opnião: Responda o questionario 
 	* A instalação do Visual Studio 2022 faz a instalação do .Net Core 8 e portanto tem que ser instalado a parte do .Net Core 6.
 	![Download Net Core 6](/ImagensREADME/DownloadNetCore6.png "Download Net Core 6.")
 4. Atualizar o Idioma do Visual Studio 2022 para Inglês.
-1. Executar novamente o instalador do Visual Studio:
-![Instalador Visual Studio.](/ImagensREADME/InstaladorVisualStudio.png "Instalador Visual Studio.")
-2. Confirme as primeiras definições do instalador clicando em Continuar:
-![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
-3. Aguardo enquanto o Visual Studio Installer realiza os downloads necessários
-![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
-4. Clique agora em Modificar
-![Modificar Instalacao](/ImagensREADME/ModificarInstalacao.png "Modificar Instalacao.")
-5. Vá até a guia Pacotes de idiomas
-![Pacote de Idiomas](/ImagensREADME/PacotedeIdiomas.png "Pacote de Idiomas.")
-6. Marque o Inglês, ou outro de sua preferencia e clique em Modificar
-![Modificar Idioma](/ImagensREADME/ModificarIdioma.png "Modificar Idioma.")
-7. Finalizada a atualização, abra seu Visual Studio, localize o menu Ferramentas e na sequencia clique em Opções
-![Ferramentas Opcoes](/ImagensREADME/FerramentasOpcoes.png "Ferramentas Opcoes.")
-8. Vá até Configurações Internacionais
-![Configuracoes Internacionais](/ImagensREADME/ConfiguracoesInternacionais.png "Configuracoes Internacionais.")
-9. Selecione o idioma de sua preferência e clique em Ok para confirmar a alteração.
-![Idioma Ingles Selecionado](/ImagensREADME/IdiomaInglesSelecionado.png "Idioma Ingles Selecionado.")
+	1. Executar novamente o instalador do Visual Studio:
+	![Instalador Visual Studio.](/ImagensREADME/InstaladorVisualStudio.png "Instalador Visual Studio.")
+	2. Confirme as primeiras definições do instalador clicando em Continuar:
+	![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
+	3. Aguardo enquanto o Visual Studio Installer realiza os downloads necessários
+	![Downloads Necessarios](/ImagensREADME/DownloadsNecessarios.png "Downloads Necessarios.")
+	4. Clique agora em Modificar
+	![Modificar Instalacao](/ImagensREADME/ModificarInstalacao.png "Modificar Instalacao.")
+	5. Vá até a guia Pacotes de idiomas
+	![Pacote de Idiomas](/ImagensREADME/PacotedeIdiomas.png "Pacote de Idiomas.")
+	6. Marque o Inglês, ou outro de sua preferencia e clique em Modificar
+	![Modificar Idioma](/ImagensREADME/ModificarIdioma.png "Modificar Idioma.")
+	7. Finalizada a atualização, abra seu Visual Studio, localize o menu Ferramentas e na sequencia clique em Opções
+	![Ferramentas Opcoes](/ImagensREADME/FerramentasOpcoes.png "Ferramentas Opcoes.")
+	8. Vá até Configurações Internacionais
+	![Configuracoes Internacionais](/ImagensREADME/ConfiguracoesInternacionais.png "Configuracoes Internacionais.")
+	9. Selecione o idioma de sua preferência e clique em Ok para confirmar a alteração.
+	![Idioma Ingles Selecionado](/ImagensREADME/IdiomaInglesSelecionado.png "Idioma Ingles Selecionado.")
 
 Agora o Visual Studio está em Inglês.
 	
@@ -100,21 +100,18 @@ Agora conseguimos escolher o ambiente local do Nuget ou do repositório da Inter
 ![Escolha entre Nuget.org ou local](/ImagensREADME/Nugetorg.png "Escolha entre Nuget.org ou local.")
 
 6. Criação do Projeto no Visual Studio.
-6.1 - Escolha do Template
-O template escolhido foi o "ASP.NET Core Web API.
+	6.1 - Escolha do Template
+	O template escolhido foi o "ASP.NET Core Web API.
 
 ![Template Escolhido](/ImagensREADME/templateescolhido.png "Template Escolhido.")
 
 Foi escolhido esse template, pois já tem o OpenAPI que é uma implementação do Swagger que é exigido no teste.
 
-6.2 - Nome do Projeto: DesafioStefaniniCrudPedidos
-* Ficou o Path local: F:\DEsafioStefaniniDotNet\DesafioStefaniniCrudPedidos\.
+	6.2 - Nome do Projeto: DesafioStefaniniCrudPedidos
+	* Ficou o Path local: F:\DEsafioStefaniniDotNet\DesafioStefaniniCrudPedidos\.
+
 6.3 - Escolha da Framework:
 
 ![Framework](/ImagensREADME/Net6.png "Framework.")
 
-
-
-
-![JSON.](/ImagensREADME/JSON.jpg) "JSON.")
 
