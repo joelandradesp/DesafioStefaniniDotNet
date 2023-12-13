@@ -124,6 +124,7 @@ Adicionado nuget.org:
 ![Adicionado Nuget.org](/ImagensREADME/adicionadonugetorg.png "Adicionado Nuget.org.")
 
 Agora conseguimos escolher o ambiente local do Nuget ou do repositório da Internet que é o Nuget.org:
+
 ![Escolha entre Nuget.org ou local](/ImagensREADME/Nugetorg.png "Escolha entre Nuget.org ou local.")
 
 6. Criação do Projeto no Visual Studio.
@@ -134,10 +135,10 @@ Agora conseguimos escolher o ambiente local do Nuget ou do repositório da Inter
 
 Foi escolhido esse template, pois já tem o OpenAPI que é uma implementação do Swagger que é exigido no teste.
 
-	6.2 - Nome do Projeto: DesafioStefaniniCrudPedidos
+6.2. - Nome do Projeto: DesafioStefaniniCrudPedidos
 	* Ficou o Path local: F:\DEsafioStefaniniDotNet\DesafioStefaniniCrudPedidos\.
 
-6.3 - Escolha da Framework:
+6.3. - Escolha da Framework:
 
 ![Framework](/ImagensREADME/Net6.png "Framework.")
 
