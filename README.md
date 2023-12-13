@@ -142,4 +142,16 @@ Foi escolhido esse template, pois já tem o OpenAPI que é uma implementação d
 
 ![Framework](/ImagensREADME/Net6.png "Framework.")
 
+7. Instalação Entity Framework in-memory:
+
+Podemos instalar pelo gerenciador do nuget ou pelo Windows PowerShell. No meu caso escolhi instalar pelo Windows PowerShell.
+Esse pacote é instalado não no Visual Studio e sim no Projeto escolhido, que no caso é o DesafioStefaniniCrudPedidos.
+
+![Entity Framework InMemory PowerShell](/ImagensREADME/EntityframeworkInMemoryPowerShell.png "Entity Framework InMemory PowerShell.")
+
+Log da Instação do EntityFrameworkInMemory:
+
+![Entity Framework InMemory Log de Instação](/ImagensREADME/EntityframeworkInMemoryInstaladoPowerShell.png "Entity Framework InMemory Log de Instação.")
+
+
 
